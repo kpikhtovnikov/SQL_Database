@@ -1,1 +1,1 @@
-SQL_Database
+База данных MySQL и Python
