@@ -1,1 +1,1 @@
-База данных MySQL и Python
+Работа с базой данных MySQL и Python
